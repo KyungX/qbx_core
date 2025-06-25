@@ -1,7 +1,7 @@
 ![image](.github/images/banner.jpg)
 
 
-_<p align="center">"And then there was Qbox"</p>_
+_<p align="center">"And then there was Qboxx"</p>_
 
 
 # qbx_core
